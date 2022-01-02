@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47cce713.chunk.css",
+    "main.js": "/static/js/main.6e7f1663.chunk.js",
+    "main.js.map": "/static/js/main.6e7f1663.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
+    "static/css/2.7773f12c.chunk.css": "/static/css/2.7773f12c.chunk.css",
+    "static/js/2.1c54995e.chunk.js": "/static/js/2.1c54995e.chunk.js",
+    "static/js/2.1c54995e.chunk.js.map": "/static/js/2.1c54995e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7773f12c.chunk.css.map": "/static/css/2.7773f12c.chunk.css.map",
+    "static/css/main.47cce713.chunk.css.map": "/static/css/main.47cce713.chunk.css.map",
+    "static/js/2.1c54995e.chunk.js.LICENSE.txt": "/static/js/2.1c54995e.chunk.js.LICENSE.txt",
+    "static/media/banner.f6b99ac0.jpg": "/static/media/banner.f6b99ac0.jpg",
+    "static/media/bg.e642d16a.jpg": "/static/media/bg.e642d16a.jpg",
+    "static/media/deepak-2.b9145a12.png": "/static/media/deepak-2.b9145a12.png",
+    "static/media/all.min.css": "/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/girl.be30a024.jpg": "/static/media/girl.be30a024.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ebc510a.js",
+    "static/css/2.7773f12c.chunk.css",
+    "static/js/2.1c54995e.chunk.js",
+    "static/css/main.47cce713.chunk.css",
+    "static/js/main.6e7f1663.chunk.js"
+  ]
+}
